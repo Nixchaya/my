@@ -6,8 +6,8 @@
     <title>Mombas</title>
 </head>
 <body>
-    <h1>hello mombas</h1>
-    <h1>hello 134e4rf2tsorpjjje maaaombas</h1>
+    <h1>hello kaka mombas</h1>
+    <h1>hello tero baje maaaombas</h1>
 
 </body>
 </html>
